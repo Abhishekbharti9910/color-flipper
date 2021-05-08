@@ -5,4 +5,5 @@
 ---->>hex color format
 
 -------------------------------*************************------------------------
-link to the app :
+<br/>
+link to the app : https://abhishekbharti9910.github.io/color-flipper/hex.html
